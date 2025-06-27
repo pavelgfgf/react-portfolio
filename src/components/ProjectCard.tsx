@@ -6,7 +6,7 @@ const Card: React.FC = () => {
         <div className="relative inline-block">
         <div className="absolute inset-0 w-30 h-30 md:w-40 md:h-40 rounded-full bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500  z-0" />
         <img
-          src="src/img/avatarka.png"
+          src="../img/avatarka.png"
           alt="Avatar"
           className="relative z-10 w-40 h-40 md:w-40 md:h-40 rounded-full"
         />
