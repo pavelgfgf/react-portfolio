@@ -11,13 +11,13 @@ const technologies = [
 const projects = [
   {
     title: "Проект секции часто задаваемых вопросов",
-    image: "/faq.jpg",
+    image: "public/faq.jpg",
     link: "https://pavelgfgf.github.io/react-faq-section/",
     description: "POWER OF HTML",
   },
   {
     title: "Сайт объявлений",
-    image: "/ads.jpg",
+    image: "public/ads.jpg",
     link: "https://pavelgfgf.github.io/react-ads/",
     description: "UNLOCK CSS MAGIC",
   },
