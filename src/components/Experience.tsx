@@ -22,7 +22,7 @@ const experience: ExperienceItem[] = [
 
 const Experience: React.FC = () => {
   return (
-    <section className="bg-black text-white py-16 px-4">
+    <section className="bg-black text-white py-16 px-4" id="experience">
       <h2 className="text-3xl font-bold text-center text-blue-500 mb-12 uppercase">
         Опыт разработки
       </h2>

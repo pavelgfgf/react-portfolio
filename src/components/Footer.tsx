@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-[#222222] text-white py-16 px-6">
+    <footer className="bg-[#222222] text-white py-16 px-6" id="contact">
       <div className="max-w-4xl mx-auto space-y-6">
         {/* Заголовок */}
         <h2 className="text-xl font-semibold">Контакты</h2>
