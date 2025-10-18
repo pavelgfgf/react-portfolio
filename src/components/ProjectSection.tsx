@@ -1,23 +1,23 @@
 import React from "react";
 
 const technologies = [
-  { name: "JavaScript", icon: "src/img/icons/javascript.png" },
-  { name: "Node.js", icon: "src/img/icons/nodejs.png" },
-  { name: "HTML5", icon: "src/img/icons/html.png" },
-  { name: "CSS3", icon: "src/img/icons/css.png" },
-  { name: "React", icon: "src/img/icons/reactjs.png" },
+  { name: "JavaScript", icon: "https://pavelgfgf.github.io/react-portfolio/icons/javascript.png" },
+  { name: "Node.js", icon: "https://pavelgfgf.github.io/react-portfolio/icons/nodejs.png" },
+  { name: "HTML5", icon: "https://pavelgfgf.github.io/react-portfolio/icons/html.png" },
+  { name: "CSS3", icon: "https://pavelgfgf.github.io/react-portfolio/icons/css.png" },
+  { name: "React", icon: "https://pavelgfgf.github.io/react-portfolio/icons/reactjs.png" },
 ];
 
 const projects = [
   {
     title: "Проект секции часто задаваемых вопросов",
-    image: "public/faq.jpg",
+    image: "https://pavelgfgf.github.io/react-portfolio/faq.jpg",
     link: "https://pavelgfgf.github.io/react-faq-section/",
     description: "POWER OF HTML",
   },
   {
     title: "Сайт объявлений",
-    image: "public/ads.jpg",
+    image: "https://pavelgfgf.github.io/react-portfolio/ads.jpg",
     link: "https://pavelgfgf.github.io/react-ads/",
     description: "UNLOCK CSS MAGIC",
   },
